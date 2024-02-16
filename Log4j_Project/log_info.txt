@@ -1,0 +1,10 @@
+2024-02-07 10:54:43 INFO com.log.MyApplication2   <clinit> main       0 28 Log4j Setup is ready
+2024-02-07 10:54:43 DEBUG com.log.MyApplication2       main main       5 37 start of main method
+2024-02-07 10:54:44 INFO com.log.MyApplication2       main main       826 40 connection obj is created
+2024-02-07 10:54:44 INFO com.log.MyApplication2       main main       973 43 statement obj is created
+2024-02-07 10:54:44 INFO com.log.MyApplication2       main main       1063 48 ResultSet obj is created
+2024-02-07 10:54:44 INFO com.log.MyApplication2       main main       1070 54 Query is executed
+2024-02-07 10:54:44 DEBUG com.log.MyApplication2       main main       1073 69 connection is closed
+2024-02-07 10:54:44 DEBUG com.log.MyApplication2       main main       1074 80 statement is closed 
+2024-02-07 10:54:44 DEBUG com.log.MyApplication2       main main       1075 91 ResultSet is closed
+2024-02-07 10:54:44 DEBUG com.log.MyApplication2       main main       1075 100 end of main method
