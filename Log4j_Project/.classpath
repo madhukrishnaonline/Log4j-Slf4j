@@ -7,6 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/krishna/Downloads/WINDOWS.X64_193000_db_home/jdbc/lib/ojdbc8_g.jar"/>
-	<classpathentry kind="lib" path="C:/Users/krishna/Downloads/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/SoftWares/Log4j Slf4j/log4j-1.2.17.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
